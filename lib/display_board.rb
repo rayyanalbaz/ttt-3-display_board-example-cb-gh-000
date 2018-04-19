@@ -6,5 +6,5 @@ def display_board
   puts line
   puts row
   puts line
-  print row
+  puts row
 end
