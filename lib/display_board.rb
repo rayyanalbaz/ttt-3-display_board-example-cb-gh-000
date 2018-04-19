@@ -8,4 +8,3 @@ def display_board
   puts line
   puts row
 end
-
